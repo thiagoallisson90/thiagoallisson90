@@ -11,10 +11,14 @@
 
 Here are some of the languages and tools I work with:
 
-- C, C++
-- JS, React
+- C and C++
+- JS and React
 - Python
 - Java
+- VSCode
+- Sklearn
+- Pandas
+- Git and Github
 
 ## Featured Projects
 
