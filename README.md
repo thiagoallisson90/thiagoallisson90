@@ -19,6 +19,7 @@ Here are some of the languages and tools I work with:
 - Sklearn
 - Pandas
 - Git and Github
+- Latex and Overleaf
 
 ## Featured Projects
 
