@@ -5,13 +5,16 @@
 - 👨‍💻 Passionate developer enthusiastic about technology.
 - 🌱 Currently learning IoT and IA.
 - 💼 PhD student at [UFPI](https://ufpi.br/).
-- 🎓 Graduated in Science Computer.
+- 🎓 Graduated in Science Computer at UESPI.
 
 ## Languages and Tools
 
 Here are some of the languages and tools I work with:
 
-[C, C++, JS, React, Python, Java]
+- C, C++
+- JS, React
+- Python
+- Java
 
 ## Featured Projects
 
