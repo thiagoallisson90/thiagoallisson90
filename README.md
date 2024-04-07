@@ -4,7 +4,7 @@
 
 - 👨‍💻 Passionate developer enthusiastic about technology.
 - 🌱 Currently learning IoT and IA.
-- 💼 PhD student at [UFPI](https://ufpi.br/)].
+- 💼 PhD student at [UFPI](https://ufpi.br/).
 - 🎓 Graduated in Science Computer.
 
 ## Languages and Tools
@@ -21,8 +21,8 @@ Here are some of the projects I'm working on or proud of:
 
 ## How to Reach Me
 
-- LinkedIn: [www.linkedin.com/in/thiago-allisson-rsilva]
-- E-mail: [thiago.allisson@ufpi.edu.br]
+- LinkedIn: [My profile](www.linkedin.com/in/thiago-allisson-rsilva]
+- E-mail: [Gmail](thiago.allisson@ufpi.edu.br)
 
 ## Interests
 
