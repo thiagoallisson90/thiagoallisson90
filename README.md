@@ -22,8 +22,8 @@ Here are some of the projects I'm working on or proud of:
 
 ## How to Reach Me
 
-- LinkedIn: [My profile](https://www.linkedin.com/in/thiago-allisson-rsilva]
-- E-mail: [Gmail](thiago.allisson@ufpi.edu.br)
+- LinkedIn: [My profile](https://www.linkedin.com/in/thiago-allisson-rsilva)
+- E-mail: [Gmail](mailto:thiago.allisson@ufpi.edu.br)
 
 ## Interests
 
