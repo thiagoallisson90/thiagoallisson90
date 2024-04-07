@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, I'm Thiago Allisson! 👋
 
-<!--
-**thiagoallisson90/thiagoallisson90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👨‍💻 Passionate developer enthusiastic about technology.
+- 🌱 Currently learning IoT and IA.
+- 💼 Working as a [your position] at [your company/organization].
+- 🎓 Graduated in Science Computer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+Here are some of the languages and tools I work with:
+
+[C, C++, JS, React, Python, Java]
+
+## Featured Projects
+
+Here are some of the projects I'm working on or proud of:
+
+[Communication Infrastructre Applied to Provide Connectivity for Application in Smart Grids]
+
+## How to Reach Me
+
+- LinkedIn: [www.linkedin.com/in/thiago-allisson-rsilva]
+- E-mail: [thiago.allisson@ufpi.edu.br]
+
+## Interests
+
+- [Programming]
+- [IA]
+- [IoT]
+- [Games]
+
+## Acknowledgments
+
+Thanks for visiting my profile! 😄
