@@ -17,11 +17,12 @@ Here are some of the languages and tools I work with:
 
 Here are some of the projects I'm working on or proud of:
 
-[Communication Infrastructre Applied to Provide Connectivity for Application in Smart Grids, Smart Traps]
+- Communication Infrastructre Applied to Provide Connectivity for Application in Smart Grids
+- Smart Traps
 
 ## How to Reach Me
 
-- LinkedIn: [My profile](www.linkedin.com/in/thiago-allisson-rsilva]
+- LinkedIn: [My profile](https://www.linkedin.com/in/thiago-allisson-rsilva]
 - E-mail: [Gmail](thiago.allisson@ufpi.edu.br)
 
 ## Interests
