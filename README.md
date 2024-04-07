@@ -4,7 +4,7 @@
 
 - 👨‍💻 Passionate developer enthusiastic about technology.
 - 🌱 Currently learning IoT and IA.
-- 💼 Working as a [your position] at [your company/organization].
+- 💼 PhD student at [UFPI](https://ufpi.br/)].
 - 🎓 Graduated in Science Computer.
 
 ## Languages and Tools
@@ -17,7 +17,7 @@ Here are some of the languages and tools I work with:
 
 Here are some of the projects I'm working on or proud of:
 
-[Communication Infrastructre Applied to Provide Connectivity for Application in Smart Grids]
+[Communication Infrastructre Applied to Provide Connectivity for Application in Smart Grids, Smart Traps]
 
 ## How to Reach Me
 
@@ -26,10 +26,11 @@ Here are some of the projects I'm working on or proud of:
 
 ## Interests
 
-- [Programming]
-- [IA]
-- [IoT]
-- [Games]
+- Programming
+- IA
+- IoT
+- Games
+- Teaching
 
 ## Acknowledgments
 
